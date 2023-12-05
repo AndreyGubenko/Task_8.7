@@ -1,0 +1,15 @@
+html {
+    min-height:100%;
+    background-size:cover;
+}
+
+body {
+    min-height:100%;
+    background-image: url(1918.png);
+    background-size: cover;
+}
+
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
